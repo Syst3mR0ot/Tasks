@@ -1,8 +1,0 @@
-prefix=/home/syst3m-r0ot/tasks/task1_ws/install
-
-Name: task2_pkg
-Description: Description of task2_pkg
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: geometry_msgs roscpp rospy std_msgs
