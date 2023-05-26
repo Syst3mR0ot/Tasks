@@ -1,0 +1,2 @@
+task1_pkg:task2_pkg:task3_pkg:task4_pkg
+-DCATKIN_DEVEL_PREFIX=/home/syst3m-r0ot/tasks/task1_ws/devel -DCMAKE_INSTALL_PREFIX=/home/syst3m-r0ot/tasks/task1_ws/install -G Unix Makefiles

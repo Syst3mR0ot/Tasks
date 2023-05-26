@@ -1,0 +1,8 @@
+prefix=/home/syst3m-r0ot/tasks/task1_ws/devel
+
+Name: task4_pkg
+Description: Description of task4_pkg
+Version: 0.0.0
+Cflags: -I/home/syst3m-r0ot/tasks/task1_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/opt/ros/noetic/include/**",
+                "/home/system-r0ot/task1_ws/src/task1_pkg/include/**",
+                "/home/system-r0ot/task1_ws/src/task2_pkg/include/**",
+                "/usr/include/**",
+                "/home/system-r0ot/task1_ws/src/task2_pkg/msg/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
